@@ -60,11 +60,11 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'glasses',
 			link: 'https://reddit.com/',
 		},
 		{
-			id: '3',
+			id: '4',
 			name: 'YouTube',
 			icon: 'youtube',
 			link: 'https://youtube.com',
