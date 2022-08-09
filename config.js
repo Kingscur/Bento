@@ -86,11 +86,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Haikei',
-					link: 'app.haikei.app',
+					link: 'https://app.haikei.app',
 				},
 				{
 					name: 'UI',
-					link: 'materialui.co',
+					link: 'https://materialui.co',
 				},
 				{
 					name: '...',
