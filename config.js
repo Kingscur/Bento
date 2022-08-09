@@ -64,7 +64,7 @@ const CONFIG = {
 			link: 'https://reddit.com/',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'YouTube',
 			icon: 'youtube',
 			link: 'https://youtube.com',
