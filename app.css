@@ -22,7 +22,7 @@
 
   /* Fonts Color */
   --fg: #c0caf5; /* Foreground color */
-  --sfg: #7dcfff; /* Sceondary Foreground color */
+  --sfg: #1a1b26; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #7dcfff; /* Hover color */
@@ -45,7 +45,7 @@
 
   /* Fonts Color */
   --fg: #c0caf5; /* Foreground color */
-  --sfg: #7dcfff; /* Secondary Foreground color */
+  --sfg: #1a1b26; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
@@ -122,7 +122,7 @@ body {
 }
 
 .card:hover {
-  transform: translateY(-0.2rem);
+  transform: translateY(-0.4rem);
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
 }
 
